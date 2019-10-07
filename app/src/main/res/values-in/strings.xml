@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MovieCatalogueDB</string>
+    <string name="title_movies">FILM</string>
+    <string name="title_tv_shows">ACARA TV</string>
+    <string name="title_favorite">FAVORIT</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="empty_message">Data Kosong</string>
+    <string name="score">Skor</string>
+    <string name="success_delete_message">Berhasil Menghapus Favorit</string>
+    <string name="success_added_message">Berhasil Menambah Favorit</string>
+    <string name="favorite_catalogue">Katalog Favorit</string>
+    <string name="empty_widget">Data Kosong</string>
+    <string name="key_daily">daily</string>
+    <string name="key_release">release</string>
+    <string name="repeatMessage">Katalog Movie Merindukanmu</string>
+    <string name="releaseMessage">Telah Dirilis Hari Ini</string>
+    <string name="releaseNotif">telah dirilis hari ini!</string>
+    <string name="setDailyReminder">Daily Reminder telah diatur</string>
+    <string name="setReleaseReminder">Release Movie telah diatur</string>
+    <string name="cancelAlarm">dibatalkan</string>
+    <string name="searchHint">Cari</string>
+    <string name="dailyReminderTitle">Daily Reminder</string>
+    <string name="dailyReminderSummart">Pengingat untuk kembali ke aplikasi</string>
+    <string name="releaseReminderTitle">Release Reminder</string>
+    <string name="releaseReminderSummary">Pengingat yang menampilkan film yang tayang hari ini</string>
+</resources>

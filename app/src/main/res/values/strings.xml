@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MovieCatalogueDB</string>
+    <string name="title_movies">MOVIES</string>
+    <string name="title_tv_shows">TV SHOWS</string>
+    <string name="title_favorite">FAVORITE</string>
+    <string name="overview">Overview</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <string name="empty_message">Data is Empty</string>
+    <string name="score">Score</string>
+    <string name="success_delete_message">Successfully Deleted Favorites</string>
+    <string name="success_added_message">Successfully Added Favorite</string>
+    <string name="favorite_catalogue">Favorite Catalogue</string>
+    <string name="empty_widget">No Data</string>
+    <string name="key_daily">daily</string>
+    <string name="key_release">release</string>
+    <string name="repeatMessage">Calatogue Movie is missing you</string>
+    <string name="releaseMessage">Has Been Release Today</string>
+    <string name="releaseNotif">has been release today!</string>
+    <string name="setDailyReminder">Daily Reminder alarm set up</string>
+    <string name="setReleaseReminder">Release Movie alarm set up</string>
+    <string name="cancelAlarm">cancelled</string>
+    <string name="searchHint">Search</string>
+    <string name="dailyReminderTitle">Daily Reminder</string>
+    <string name="dailyReminderSummart">Reminder for return to app</string>
+    <string name="releaseReminderTitle">Release Reminder</string>
+    <string name="releaseReminderSummary">Reminder showing the movie that released toady</string>
+</resources>
